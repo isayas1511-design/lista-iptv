@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="IPTV",A Lista de Tudo
+https://bit.ly/alistadetudo
+#EXTINF:-1 group-title="IPTV",IPTV Brasil
+https://bit.ly/IptvBrasil
+#EXTINF:-1 group-title="Will",Will - Canais
+https://bit.ly/Will-Canais
+#EXTINF:-1 group-title="Will",Will - Filmes
+https://bit.ly/Will-Filmes
+#EXTINF:-1 group-title="Will",Will - Séries
+https://bit.ly/Will-Series
+#EXTINF:-1 group-title="Will",Will - Desenhos
+https://bit.ly/Will-Desenhos
+#EXTINF:-1 group-title="Will",Will - Adultos
+https://bit.ly/Will-Adultos
